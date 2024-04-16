@@ -1,0 +1,415 @@
+
+.titulo{
+    font-style: italic;
+    color: white;
+    font-size: 50px;;
+    background-color: #A92424;
+    padding: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.dedicatoria{
+    margin: 30px;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #7D7A7A;
+    color: lightgray;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.dedicatoria2{
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #7D7A7A;
+    color:  lightgray;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 27px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.texto{
+    font-size: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-size: 10px;
+    padding-top: 100px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+.opcion{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.opciones{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.Cena--uno{
+    width: 300px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.Cena--dos{
+    width: 300px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.Picnic{
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+
+.Citas--opcion1{
+    padding-bottom: 40px;
+}
+
+.Citas--opcion2{
+    padding-bottom: 40px;
+}
+
+.Citas--opcion3{
+    padding-bottom: 40px;
+}
+
+.eleccion{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Recuerdos1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Recuerdos2{
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 3px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+}
+
+.Imagenes--recuerdos{
+    display: flexbox;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-right: 50px;
+}
+
+.FA{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #7D7A7A;
+    align-items: center;
+    margin: 100px;
+    padding-top: 30px;
+    font-size: 25px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+    color: lightgray;
+}
+
+.Ilatte{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Inovios{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Imes{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ibar{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ialberca{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iparque{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iprepa{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icolita{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Imanos{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Imaruchan{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ijunio{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iminions{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Igraduacion{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icapucha{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ifiltro{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iagosto{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ividrio{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ioctubre{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iperez{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Inoviembre{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Idiciembre{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Inavidad{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ienero23{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iprimeraño{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Idormidos{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icocoa{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iarte{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ifamiliar{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ibotanero{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icumple{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Igaston{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icocochina{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Isorpresa{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Isebas{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Icalcetines{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Imar{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iagosto23{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iseptiembre23{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Idisfraz{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Iursula{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Igorras{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Ienero24{
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    border-radius: 10%;
+}
+.Disculpas{
+    font-size: 21px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Derechos{
+    padding-top: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

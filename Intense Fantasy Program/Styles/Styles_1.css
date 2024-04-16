@@ -1,0 +1,91 @@
+/*estilos*/
+/*TITULO DE PAGINA PRINCIPAL*/
+
+
+/*Rosa Oscuro: #FF69B4
+Morado Profundo: #800080
+Rojo Ardiente: #FF0000
+Azul Eléctrico: #1E90FF
+Negro Sensual: #000000
+Blanco Seductor: #FFFFFF
+Gris Platino: #E5E4E2
+Verde Lima: #00FF00
+Naranja Atrevido: #FFA500
+Amarillo Excitante: #FFFF00*/
+
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+@keyframes brillo {
+    0% {
+      color: #FF69B4; /* Color del texto */
+      text-shadow: 0 0 10px #FF69B4, 0 0 20px #FF69B4, 0 0 30px #FF69B4, 0 0 40px #FF69B4, 0 0 50px #FF69B4, 0 0 60px #FF69B4, 0 0 70px #FF69B4, 0 0 80px #FF69B4;
+    }
+    100% {
+      color: #FFFFFF; /* Color del texto cuando brilla */
+      text-shadow: 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFFFF, 0 0 50px #FFFFFF, 0 0 60px #FFFFFF, 0 0 70px #FFFFFF, 0 0 80px #FFFFFF, 0 0 90px #FFFFFF;
+    }
+}
+
+
+.title_1 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-style: italic;
+    font-size: 95px;
+    font-weight: bold;
+    animation: brillo 2s ease-in-out infinite alternate; /* Animación del brillo */
+    background: linear-gradient(to right, #800080, #000000);
+}
+
+.logo_header{
+    width: 5%;
+    margin-right: 100px;
+}
+
+/*COLOR DE BACKGROUND*/
+
+.background_page_color{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #654379, #323345, #000000);
+}
+
+/*Items de la pagina principal*/
+/* Estilos aquí */
+
+.productos_1 {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribuye los elementos horizontalmente */
+}
+
+.producto1,
+.producto2,
+.producto3,
+.producto4,
+.producto5,
+.producto6 {
+    width: 400px;
+    height: auto;
+    padding: auto;
+    margin-bottom: 12.5px;
+    margin-top: 12.5px;
+}
+
+
+
+
+
+
+
+    
+

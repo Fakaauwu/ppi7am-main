@@ -1,0 +1,129 @@
+.Cabecera--1{
+    font-style: italic;
+    color: white;
+    font-size: 50px;;
+    background-color: #A92424;
+    padding: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.Romatica--1{
+    font-size: 30px;
+    padding-top: 20PX;
+    padding-bottom: 20px;
+    text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Citatorio{
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #7D7A7A;
+    color:  lightgray;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 27px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Okura{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 700px;
+    height: auto;
+    border-radius: 10%;   
+}
+
+.Metropolitano{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 350px;
+    height: auto;
+    border-radius: 10%;   
+}
+
+.Eleccion--1{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Lugares{
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.K-house{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%;   
+}
+.Pipiolo{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%;   
+}
+.Louie{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%;   
+}
+.Factory{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%; 
+}
+.Qin{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%;   
+}
+
+.Fasita{
+    margin: 30px;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #7D7A7A;
+    color: lightgray;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Fin{
+    font-size: 21px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Derechos--1{
+    padding-top: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
